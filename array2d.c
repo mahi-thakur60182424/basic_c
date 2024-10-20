@@ -17,7 +17,7 @@ int main() {
 
     printf("\n\n");
 
-    // Print elements of array2
+    // Print elements of array2 // do    
     printf("Elements of array2: \n");
     for (int i = 0; i < size2; i++) {
         printf("%d ", array2[i]);
